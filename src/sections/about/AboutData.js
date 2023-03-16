@@ -1,0 +1,6 @@
+export default [
+   "Je suis Aboubacar Sadik, j'ai 26 ans et amoureux de la technologie depuis petit. J'ai fait des études de langue française à l'université. Mon désir de créer, de résoudre des problèmes complexes et de contribuer à un changement positif m'a naturellement conduit vers une reconversion ou une doublure si on veut.",
+   "Ayant un esprit créatif, critique et attentif aux petits détails, j'ai très vite compris que je voulais coder, je voulais créer, créer un bouton, une page web à partir de rien. C'est là que j'ai commencé à me former au developpement web en autodidacte. Par la suite j'ai obtenu des certifications en HTML, CSS, JS, React, délivrées par META, IBM via Coursera et FreeCodeCamp.",
+   "Je parle français et anglais, ce qui me permet de travailler facilement dans un contexte international.J'applique des valeurs fortes telles que l'honnêteté, la confiance et la loyauté dans toutes les sphères de ma vie.",
+   "Mes compétences en développement web me permettent de relever des défis complexes, d'apporter des solutions créatives et de qualité et de fournir une expérience utilisateur optimale à mes clients."
+]
